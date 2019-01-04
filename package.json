@@ -1,0 +1,20 @@
+{
+  "name": "week5day2",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.18.9",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "author": "purp",
+  "license": "ISC"
+}
